@@ -787,16 +787,16 @@
 			<select value="25" t="barrier" v="toll_booth"/>
 			<select value="25" t="barrier"/>
 			<select value="10" t="traffic_calming"/>
-			<select value="30" t="highway" v="traffic_signals"/>
+			<select value="10" t="highway" v="traffic_signals"/>
 			<select value="1"  t="crossing" v="unmarked"/>
 			<select value="5"  t="crossing" v="uncontrolled"/>
 			<select value="15" t="highway" v="crossing"/>
-			<select value="15" t="highway" v="stop"/>
+			<select value="5" t="highway" v="stop"/>
 			<select value="10" t="highway" v="give_way"/>
 			<select value="25" t="ford"/>
 
-			<select value="25" t="railway" v="crossing"/>
-			<select value="25" t="railway" v="level_crossing"/>
+			<select value="5" t="railway" v="crossing"/>
+			<select value="5" t="railway" v="level_crossing"/>
 		</point>
 
 		<point attribute="obstacle">
